@@ -83,7 +83,7 @@ header{
     }
     #containerpk article{
         width: 100%;
-        border: 1px solid blue;
+        border: 1px solid rgb(0, 0, 0);
         border-radius: 5px;
         display: flex;
         flex-direction: column;
