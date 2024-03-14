@@ -161,8 +161,8 @@ function mostarDatosIniciales(listaPk) {
                 <img src="img/loading.gif" alt="">
                 <div>
                     <p><label>Types: </label><span></span></p>
-                    <p><label>Id:</label><span></span></p>
-                    <p><label>Experience</label><span></span></p> 
+                    <p><label>Id: </label><span></span></p>
+                    <p><label>Experience: </label><span></span></p> 
                 </div>
             </article>`;
         }
