@@ -66,6 +66,12 @@ body
 #next,#previous{
     cursor: pointer;
 }
+#tablatipos
+{
+    align-items: center;
+    margin: 0 auto;
+    justify-content: space-between; 
+}
 
 /* Media query para tamaños de pantalla más pequeños donde quieres ocultar el h1 */
 @media screen and (max-width: 376px) {
